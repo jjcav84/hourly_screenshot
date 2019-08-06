@@ -5,13 +5,13 @@ import * as puppeteer from 'puppeteer';
 import * as admin from 'firebase-admin';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyCSjJF8ggpo6rv4ADugXs7mfRDmPxcD2S4",
-  authDomain: "puppet-fire-jcav.firebaseapp.com",
-  databaseURL: "https://puppet-fire-jcav.firebaseio.com",
-  projectId: "puppet-fire-jcav",
-  storageBucket: "puppet-fire-jcav.appspot.com",
-  messagingSenderId: "1002502486111",
-  appId: "1:1002502486111:web:fa990b26632b8131"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
